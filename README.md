@@ -1,3 +1,8 @@
+Solution
+========
+Application is available at: https://timarmatej.com/leapyear/
+Code is written using Svelte, logic in Javascript.
+
 Leap Years
 ==========
 
